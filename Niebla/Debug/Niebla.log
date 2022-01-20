@@ -1,8 +1,0 @@
-﻿  main.cpp
-  vec3f.cpp
-  Generando código...
-soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\jesus\Desktop\Entrega OpenGL Samuel Alonso Garcia y Jesus Manuel Garcia Prieto\Tema 12 Efectos Visuales\Niebla\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\jesus\Desktop\Entrega OpenGL Samuel Alonso Garcia y Jesus Manuel Garcia Prieto\Tema 12 Efectos Visuales\Niebla\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\jesus\Desktop\Entrega OpenGL Samuel Alonso Garcia y Jesus Manuel Garcia Prieto\Tema 12 Efectos Visuales\Niebla\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-soil2-debug.lib(wfETC.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(wfETC.obj)' o en 'C:\Users\jesus\Desktop\Entrega OpenGL Samuel Alonso Garcia y Jesus Manuel Garcia Prieto\Tema 12 Efectos Visuales\Niebla\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-  Niebla.vcxproj -> C:\Users\jesus\Desktop\Entrega OpenGL Samuel Alonso Garcia y Jesus Manuel Garcia Prieto\Tema 12 Efectos Visuales\Niebla\Debug\Niebla.exe
